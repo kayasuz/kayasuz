@@ -1,5 +1,7 @@
 # Gabriel Moura <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 
+<img align="right" alt="Power Up Mario" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="150" />
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
  <p>
@@ -11,7 +13,6 @@
 </p>
 
 ###### Contact me:
-
 <a href="https://linkedin.com/in/kayasuz">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="25px" align="left" alt="Gabriel Pavan de Moura | Linkedin"/>
 </a>
