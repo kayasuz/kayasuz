@@ -1,16 +1,20 @@
-### Hi there 👋
+# Gabriel Moura <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 
-<!--
-**kayasuz/kayasuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Here are some ideas to get you started:
+ <p>
+  <em>
+    My name is Gabriel Pavan de Moura, and I'm 18 years old. I love programming, music and video games. <br>
+    I am in the 3rd period of graduation in Computer Science at <a href="https://unip.br"> <b>Universidade Paulista - UNIP</b></a>. <br>
+    A budding <b>Software Developer</b> who wants to improve and delve into the world of programming.
+  </em>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Contact me:
+
+<a href="https://linkedin.com/in/kayasuz">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="25px" align="left" alt="Gabriel Pavan de Moura | Linkedin"/>
+</a>
+<a href="mailto:bielmoura2011@gmail.com">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="30px" align="left" alt="Gabriel Moura | Gmail"/>
+</a>
