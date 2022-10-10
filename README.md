@@ -7,7 +7,7 @@
  <p>
   <em>
     My name is Gabriel Pavan de Moura, and I'm 20 years old. I love programming, music and video games. <br>
-    I am in the 5th period of graduation in Computer Science at <a href="https://unip.br"> <b>Universidade Paulista - UNIP</b></a>. <br>
+    I am in the 6th period of graduation in Computer Science at <a href="https://unip.br"> <b>Universidade Paulista - UNIP</b></a>. <br>
     A budding <b>Software Developer</b> who wants to improve and delve into the world of programming.
   </em>  
 </p>
